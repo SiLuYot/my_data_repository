@@ -1,1 +1,1 @@
-test_2/SizeDB_1/SpeciesDB_0/
+test_3/SizeDB_2/SpeciesDB_1/AffiliationDB_0/CharacterDB_0/JobDB_0/RarityDB_0/
